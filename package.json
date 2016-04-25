@@ -1,6 +1,6 @@
 {
   "name": "random-hashtag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Return a random hashtag.",
   "main": "index.js",
   "scripts": {
@@ -45,6 +45,6 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "random-lorem": "^1.0.2"
+    "random-lorem": "^1.0.4"
   }
 }
